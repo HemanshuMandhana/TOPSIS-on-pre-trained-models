@@ -1,0 +1,6 @@
+Model,Coherence,Fluency,Relevance,Perplexity
+GPT-2,7,8,7,25
+BART,8,9,8,20
+GPT-3,9,9,9,15
+GPT-NEO,8,8,8,18
+T5,9,9,9,12
